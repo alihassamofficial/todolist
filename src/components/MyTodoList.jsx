@@ -39,7 +39,7 @@ const MyTodo = (props) => {
             }}
             className="bg-red-500 text-white rounded px-2 py-1 ml-2"
           >
-            Delete
+            Remove
           </button>
         </div>
       </div>
