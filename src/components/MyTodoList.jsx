@@ -6,6 +6,10 @@ const MyTodo = (props) => {
       <h1>{props.name}</h1>
       <button>Done</button>
       <button>Undo</button>
+      <button>Undo</button>
+      <button>Done</button>
+      <button>Undo</button>
+      <button>Undo</button>
     </Fragment>
   );
 };
